@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsolaAppTDDGit/ConsolaAppTDDGit.csproj" />
+  <Project Path="TestConsoleAppTDDGit/TestConsoleAppTDDGit.csproj" />
+</Solution>
